@@ -1,4 +1,3 @@
 {
-    "prettier.prettierPath": "node_modules\\@btmills\\prettier",
     "editor.formatOnSave": true,
 }
